@@ -620,3 +620,9 @@ listen_address not defined, metrics & debug endpoints disabled[0;m  builds[0;m
 [31;1mERROR: Runner https://gitlab.com/7Gzu722RhRLoiZcTzR6r is not healthy and will be disabled![0;m 
 [0;33mWARNING: Checking for jobs... failed              [0;m  [0;33mrunner[0;m=zCnAas-R [0;33mstatus[0;m=couldn't execute POST against https://gitlab.com/api/v4/jobs/request: Post https://gitlab.com/api/v4/jobs/request: read tcp 192.168.0.16:49692->172.65.251.78:443: read: connection reset by peer
 [0;33mWARNING: Checking for jobs... failed              [0;m  [0;33mrunner[0;m=zCnAas-R [0;33mstatus[0;m=couldn't execute POST against https://gitlab.com/api/v4/jobs/request: Post https://gitlab.com/api/v4/jobs/request: read tcp 192.168.0.16:49783->172.65.251.78:443: read: connection reset by peer
+[31;1mERROR: Runner https://gitlab.com/7Gzu722RhRLoiZcTzR6r is not healthy, but will be checked![0;m 
+[31;1mERROR: Checking for jobs... forbidden             [0;m  [31;1mrunner[0;m=7Gzu722R
+[31;1mERROR: Checking for jobs... forbidden             [0;m  [31;1mrunner[0;m=7Gzu722R
+[31;1mERROR: Checking for jobs... forbidden             [0;m  [31;1mrunner[0;m=7Gzu722R
+[31;1mERROR: Runner https://gitlab.com/7Gzu722RhRLoiZcTzR6r is not healthy and will be disabled![0;m 
+[0;33mWARNING: Checking for jobs... failed              [0;m  [0;33mrunner[0;m=zCnAas-R [0;33mstatus[0;m=couldn't execute POST against https://gitlab.com/api/v4/jobs/request: Post https://gitlab.com/api/v4/jobs/request: read tcp 192.168.0.16:49793->172.65.251.78:443: read: connection reset by peer
