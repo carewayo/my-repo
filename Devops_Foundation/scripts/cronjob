@@ -1,0 +1,1 @@
+0 * * * * /usr/bin/python3  /home/ec2-user/project2/scripts/rate.py  >> /home/ec2-user/project2/data/cron.log 2>&1
